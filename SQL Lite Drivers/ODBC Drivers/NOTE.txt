@@ -1,0 +1,1 @@
+Use 32 bit driver for 32bit applications that access it. Foe example Word installed is 32bit use 32bit driver
